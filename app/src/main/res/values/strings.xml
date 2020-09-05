@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">College</string>
+
+    <string name="add_department">Add Department</string>
+    <string name="add_student">Add Student</string>
+
+    <string name="short_name">Short Name</string>
+    <string name="long_name">Long Name</string>
+    <string name="submit">Submit</string>
+    <string name="name">Name</string>
+    <string name="department_id">Department ID</string>
+    <string name="delete">Delete</string>
+    <string name="delete_a_student">Delete A Student</string>
+    <string name="student_id">Student ID</string>
+    <string name="refresh">Refresh</string>
+    <string name="search_department">Search Department</string>
+    <string name="search">Search</string>
+</resources>
